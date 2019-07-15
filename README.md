@@ -5,4 +5,4 @@ There are two levels of the game :<br/>
 The rules of the game are simple : When the user clicks the NEW COLORS tab, the displayed RGB values will be refreshed and the user needs to guess the correct 
 color which represents the given RGB color values. IN the easy level, the user is given three colors to choose from and in 
 the hard level, six colors for the same.<br/>
-Here is the link to the following project: 
+Here is the link to the following project: [The Great RGB Color Game](https://ritik307.github.io/colorgame.github.io/)
