@@ -94,5 +94,5 @@ function resetColorGame(hard){
     colorDisplay.textContent=pickedColor;
     printResult.textContent="";
     reset.textContent="New Color";
-    document.querySelector("h1").style.backgroundImage="url(https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)";
+    document.querySelector("h1").style.backgroundImage="url('bg.jpg')";
 }
